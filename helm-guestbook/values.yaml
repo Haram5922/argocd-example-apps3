@@ -6,7 +6,7 @@ replicaCount: 3
 
 image:
   repository: nginx
-  tag: lastest
+  tag: latest
   pullPolicy: IfNotPresent
 
 containerPort: 80
